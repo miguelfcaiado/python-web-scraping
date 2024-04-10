@@ -1,10 +1,4 @@
 # Installation Guide
-If you want to get started with part 7 of the FreeCodeCamp Python Scrapy course. Follow the steps below.
-
-The link to the part 7 article: 
-https://thepythonscrapyplaybook.com/freecodecamp-beginner-course/freecodecamp-scrapy-beginners-course-part-7-saving-data/
-
-
 ## Step 1 - Install & activate your python virtual environment
 To install the python virtual environment follow the following instructions below.
 
